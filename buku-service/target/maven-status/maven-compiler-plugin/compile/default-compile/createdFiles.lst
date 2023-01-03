@@ -1,0 +1,5 @@
+com\windo\buku\service\repository\BukuRepository.class
+com\windo\buku\service\BukuServiceApplication.class
+com\windo\buku\service\controller\BukuController.class
+com\windo\buku\service\entity\Buku.class
+com\windo\buku\service\service\BukuService.class
