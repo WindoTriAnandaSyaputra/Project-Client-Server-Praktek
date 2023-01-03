@@ -2,11 +2,11 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.windo.client2101081008.service.entity;
+package com.windo.client2101081008.service;
 
 
 import com.google.gson.Gson;
-import com.windo.client2101081008.service.Peminjaman;
+import com.windo.client2101081008.service.entity.Peminjaman;
 import java.util.List;
 import kong.unirest.GenericType;
 import kong.unirest.HttpResponse;

@@ -6,8 +6,8 @@ package com.windo.client2101081008.controller;
 
 
 import com.mycompany.client2101081008.FormPeminjaman;
-import com.windo.client2101081008.service.Peminjaman;
-import com.windo.client2101081008.service.entity.PeminjamanService;
+import com.windo.client2101081008.service.entity.Peminjaman;
+import com.windo.client2101081008.service.PeminjamanService;
 import java.util.List;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
