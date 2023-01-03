@@ -1,0 +1,8 @@
+com\windo\peminjaman\service\PeminjamanServiceApplication.class
+com\windo\peminjaman\service\controller\PeminjamanController.class
+com\windo\peminjaman\service\service\PeminjamanService.class
+com\windo\peminjaman\service\VO\Buku.class
+com\windo\peminjaman\service\repository\PeminjamanRepository.class
+com\windo\peminjaman\service\VO\ResponseTemplateVO.class
+com\windo\peminjaman\service\VO\Anggota.class
+com\windo\peminjaman\service\entity\Peminjaman.class
