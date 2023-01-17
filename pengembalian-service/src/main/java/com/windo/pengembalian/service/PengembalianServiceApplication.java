@@ -1,4 +1,4 @@
-package com.fariz.pengembalian.service;
+package com.windo.pengembalian.service;
 
 import java.text.SimpleDateFormat;
 import org.springframework.boot.SpringApplication;

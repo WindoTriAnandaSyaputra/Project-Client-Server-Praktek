@@ -2,11 +2,11 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.fariz.pengembalian.service.controller;
+package com.windo.pengembalian.service.controller;
 
-import com.fariz.pengembalian.service.VO.ResponseTemplateVO;
-import com.fariz.pengembalian.service.entity.Pengembalian;
-import com.fariz.pengembalian.service.service.PengembalianService;
+import com.windo.pengembalian.service.VO.ResponseTemplateVO;
+import com.windo.pengembalian.service.entity.Pengembalian;
+import com.windo.pengembalian.service.service.PengembalianService;
 import java.text.ParseException;
 import java.util.List;
 import java.util.logging.Level;
